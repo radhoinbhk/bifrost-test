@@ -1,0 +1,24 @@
+.containerHome {
+  height: 90vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+
+  & > .paper {
+    width: 50%;
+    height: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    flex-direction: column;
+    & > .textFieldSection {
+      width: 100%;
+      & > .textField {
+        width: 80%;
+      }
+      & > .errorMessage {
+        color:red
+      }
+    }
+  }
+}
