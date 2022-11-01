@@ -4,15 +4,16 @@
 ## Run front-end and back-end to test the project in local
 ### to run the fron-end app in the development mode.
 in the repo ###bifrost-test type this command:
-###1/ `cd front-end`
-###2/ `npm install`
-###3/ `npm run start`
+### 1/ `cd front-end`
+### 2/ `npm install`
+### 3/ `npm run start`
 
 ### to run the back-end app in the development mode.
+
 in the repo ###bifrost-test type this command:
-###1/ `cd back-end`
-###2/ `npm install`
-###3/ `npm run start:dev`
+### 1/ `cd back-end`
+### 2/ `npm install`
+### 3/ `npm run start:dev`
 
 Open [http://localhost:3000](http://localhost:3000) to view the application in the browser.
 
